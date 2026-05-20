@@ -1,0 +1,9 @@
+git commit -m "Added reusable VPC Terraform module"
+
+git commit -m "Implemented EC2 autoscaling configuration"
+
+git commit -m "Configured Terraform remote backend"
+
+git commit -m "Added Jenkins CI/CD pipeline"
+
+git commit -m "Implemented ALB and security groups"
